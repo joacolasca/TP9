@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP9.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP9.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\BD_Login.sql",
+      "PackagePath": "staticwebassets\\BD_Login.sql"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\css\\Bienvenida.css",
+      "PackagePath": "staticwebassets\\css\\Bienvenida.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\js\\registro.js",
+      "PackagePath": "staticwebassets\\js\\registro.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP9\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP9.props",
+      "PackagePath": "build\\TP9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP9.props",
+      "PackagePath": "buildMultiTargeting\\TP9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP9.props",
+      "PackagePath": "buildTransitive\\TP9.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

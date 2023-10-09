@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="/css/Index.css">
+
+<form action='@Url.Action("CambiarContraseña")' method="get" style= "display: flex;justify-content: center; padding-top: 15px; flex-direction: column;">
+        <h1 style="margin-bottom: 10px;">Iniciar sesion</h1>
+        <div class="formulario">
+          <label class="form-label">Nombre de usuario</label>
+          <input type="text" class="form-control" id="UserName" name="UserName" required style="margin-top:10px">
+     </div>
+     <div class="formulario">
+          <label class="form-label">Contraseña Nueva</label>
+          <input type="text" class="form-control" id="Contraseña" name="Contraseña" required style="margin-top:10px">
+     </div>
+     <div style="width: 100%; display: flex; justify-content: center;">
+     <input type="submit" value="Enviar" style="background-color: lightblue; color: black; padding: 10px 20px; font-size: 16px; border: none; border-radius: 4px; cursor: pointer;">
+    </div>
+    </form>
